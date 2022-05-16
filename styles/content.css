@@ -29,6 +29,36 @@
     position: relative;
     left: 250px;
 }
+#images {
+    width: 200px;
+    height: 200px;
+}
+#ast {
+    position: relative;
+    bottom: 203px;
+    left: 550px;
+}
+#gno {
+    position: relative;
+    left: 50px;
+}
+#firstFig {
+    background-color: #dbdbdb;
+    
+    position: relative;
+    left: 50px;
+
+    width: 200px;
+}
+#secondFig {
+    background-color: #dbdbdb;
+
+    position:relative;
+    left: 550px;
+    bottom: 20px;
+
+    width: 200px;
+}
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
